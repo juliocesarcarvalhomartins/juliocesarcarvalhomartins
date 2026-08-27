@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- ===================== APRESENTAÇÃO ANIMADA ===================== -->
-
 # 👨‍💻 Júlio César Carvalho Martins
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&repeat=true&width=850&height=70&lines=Ol%C3%A1%2C+eu+sou+J%C3%BAlio+C%C3%A9sar+%F0%9F%91%8B;Bem-vindo+ao+meu+GitHub!+%F0%9F%9A%80;Suporte+%7C+Infraestrutura+%7C+Banco+de+Dados;Java+%7C+Python+%7C+SQL+%7C+MySQL;Transformando+conhecimento+em+solu%C3%A7%C3%B5es..."
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=FF3131&center=true&vCenter=true&repeat=true&width=850&height=70&lines=Ol%C3%A1%2C+eu+sou+J%C3%BAlio+C%C3%A9sar+%F0%9F%91%8B;Bem-vindo+ao+meu+GitHub!+%F0%9F%9A%80;Suporte+%7C+Infraestrutura+%7C+Banco+de+Dados;Java+%7C+Python+%7C+SQL+%7C+MySQL;Transformando+conhecimento+em+solu%C3%A7%C3%B5es..."
   alt="Apresentação animada"
 />
 
@@ -23,18 +21,16 @@
 
 <br>
 
-<!-- ===================== CONTATOS ===================== -->
-
 <a href="https://www.linkedin.com/in/julio-cesar-carvalho-martins-97265634a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Júlio_César-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-Júlio_César-FF3131?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:juliocesarcarvalhomartins2@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-Contato-FF3131?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://juliocesarcarvalhomartins.github.io/">
-  <img src="https://img.shields.io/badge/Portfólio-Acessar-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Portfólio-Acessar-FF3131?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -54,8 +50,8 @@ Tenho conhecimentos em **Suporte Técnico, Infraestrutura, Banco de Dados e Dese
 - ☕ Desenvolvimento com **Java**
 - 🐍 Conhecimentos em **Python**
 - 🌐 Desenvolvimento Web com **HTML e CSS**
-- 🔧 Hardware, software e troubleshooting
-- 🚀 Desenvolvimento de projetos práticos para ampliar minha experiência
+- 🔧 Hardware, Software e Troubleshooting
+- 🚀 Desenvolvimento de projetos práticos
 
 ---
 
@@ -87,11 +83,11 @@ Tenho conhecimentos em **Suporte Técnico, Infraestrutura, Banco de Dados e Dese
 
 <div align="center">
 
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005571?style=for-the-badge&logo=cisco&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![DHCP](https://img.shields.io/badge/DHCP-0066CC?style=for-the-badge&logo=serverfault&logoColor=white)
-![Hardware](https://img.shields.io/badge/Hardware-555555?style=for-the-badge&logo=pcgamingwiki&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-FF3131?style=for-the-badge&logo=windows11&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-FF3131?style=for-the-badge&logo=cisco&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-FF3131?style=for-the-badge&logo=googlecloud&logoColor=white)
+![DHCP](https://img.shields.io/badge/DHCP-FF3131?style=for-the-badge&logo=serverfault&logoColor=white)
+![Hardware](https://img.shields.io/badge/Hardware-FF3131?style=for-the-badge&logo=pcgamingwiki&logoColor=white)
 
 </div>
 
@@ -120,13 +116,13 @@ Projeto acadêmico de **Banco de Dados** desenvolvido para simular o gerenciamen
 - 📝 Histórico de atendimentos
 - 🔗 Relacionamentos entre entidades
 - 🔎 Consultas SQL
-- 📊 Organização das informações para acompanhamento dos chamados
+- 📊 Organização das informações
 
 ### 🔧 Tecnologias utilizadas
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
-![Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-FF3131?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FF3131?style=for-the-badge)
+![Workbench](https://img.shields.io/badge/MySQL_Workbench-FF3131?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -135,13 +131,25 @@ Projeto acadêmico de **Banco de Dados** desenvolvido para simular o gerenciamen
 <div align="center">
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=juliocesarcarvalhomartins&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=juliocesarcarvalhomartins&show_icons=true&theme=dark&hide_border=true&title_color=FF3131&icon_color=FF3131&text_color=FFFFFF&bg_color=0D1117"
 />
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocesarcarvalhomartins&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocesarcarvalhomartins&layout=compact&theme=dark&hide_border=true&title_color=FF3131&text_color=FFFFFF&bg_color=0D1117"
+/>
+
+</div>
+
+---
+
+## 🔥 Sequência de contribuições
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=juliocesarcarvalhomartins&theme=dark&hide_border=true&ring=FF3131&fire=FF3131&currStreakLabel=FF3131"
 />
 
 </div>
@@ -152,7 +160,10 @@ Projeto acadêmico de **Banco de Dados** desenvolvido para simular o gerenciamen
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/juliocesarcarvalhomartins/juliocesarcarvalhomartins/output/github-contribution-grid-snake-dark.svg" alt="Animação de contribuições GitHub">
+<img
+  src="https://raw.githubusercontent.com/juliocesarcarvalhomartins/juliocesarcarvalhomartins/output/github-contribution-grid-snake-dark.svg"
+  alt="Animação das contribuições"
+/>
 
 </div>
 
@@ -163,9 +174,13 @@ Projeto acadêmico de **Banco de Dados** desenvolvido para simular o gerenciamen
 <div align="center">
 
 ### 🖥️ Suporte Técnico
+
 ### 🌐 Infraestrutura de TI
+
 ### 🗄️ Banco de Dados
+
 ### 💻 Desenvolvimento de Sistemas
+
 ### 📊 Dados
 
 </div>
@@ -179,15 +194,15 @@ Busco uma oportunidade onde eu possa **aplicar meus conhecimentos, resolver prob
 <div align="center">
 
 <a href="https://www.linkedin.com/in/julio-cesar-carvalho-martins-97265634a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Júlio_César-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-Júlio_César-FF3131?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:juliocesarcarvalhomartins2@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-juliocesarcarvalhomartins2-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-Contato-FF3131?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://juliocesarcarvalhomartins.github.io/">
-  <img src="https://img.shields.io/badge/Portfólio-Ver_Projetos-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Portfólio-Ver_Projetos-FF3131?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <br><br>

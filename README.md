@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=850&color=FF3131&center=true&vCenter=true&width=850&lines=J%C3%BAlio+C%C3%A9sar+Carvalho+Martins;Suporte+T%C3%A9cnico+%7C+Infraestrutura+%7C+Dados;Windows+%7C+Redes+%7C+SQL+%7C+Python+%7C+Power+BI" alt="Júlio César Carvalho Martins" />
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/juliocesarcarvalhomartins/juliocesarcarvalhomartins/main/github-banner-julio.png" alt="Júlio César Carvalho Martins" />
   <br />
   <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=3200&pause=900&color=FF3131&center=true&vCenter=true&width=700&lines=Suporte+T%C3%A9cnico+%7C+Help+Desk+%7C+Infraestrutura;Windows+%7C+Redes+%7C+SQL+%7C+Python+%7C+Power+BI;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas" alt="Apresentação" />
@@ -226,4 +230,15 @@ Suporte Técnico • Infraestrutura • Redes • Dados • Desenvolvimento
 
 Feito com dedicação, aprendizado e foco em evolução.
 
+</div>
+
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=FF3131&center=true&vCenter=true&width=800&lines=Obrigado+pela+visita!;Vamos+construir+solu%C3%A7%C3%B5es+em+TI+%F0%9F%9B%A0%EF%B8%8F;Conecte-se+comigo+no+LinkedIn" alt="Mensagem final" />
+  <br />
+  <img src="https://raw.githubusercontent.com/juliocesarcarvalhomartins/juliocesarcarvalhomartins/main/github-profile-showcase.svg" alt="Encerramento em vermelho" />
+  <br />
+  <sub>Suporte Técnico • Infraestrutura • Redes • Dados • Desenvolvimento</sub>
 </div>

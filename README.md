@@ -53,7 +53,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Supor
 ![SQL](https://img.shields.io/badge/SQL%20%26%20MYSQL-FF3131?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-FF3131?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/POWER%20BI-FF3131?style=for-the-badge&logo=powerbi&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-FF3131?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 

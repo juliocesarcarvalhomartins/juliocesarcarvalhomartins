@@ -19,7 +19,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Supor
 - ⚙️ Suporte a usuários, manutenção de computadores e hardware
 - 🪟 Administração e configuração do Windows
 - 🌐 Fundamentos de redes: IP, DNS e DHCP
-- 🗄️ Consultas e organização de dados com SQL e MySQL
+- 🗄️ Consultas e organização de dados com SQL, MySQL e PostgreSQL
 - 📊 Relatórios e análise de dados com Power BI e Excel
 
 ## ♡ TECNOLOGIAS
@@ -33,7 +33,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Supor
 ### Bancos de Dados
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=3" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=3" alt="MySQL e PostgreSQL" />
 
 ![SQL](https://img.shields.io/badge/SQL-FF3131?style=for-the-badge&logo=database&logoColor=white)
 </div>
@@ -46,13 +46,15 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Supor
 
 ### Ferramentas que fazem parte do meu dia
 
-<div align="center"><img src="https://skillicons.dev/icons?i=windows,java,python,html,css&theme=dark&perline=5" alt="Windows, Java, Python, HTML e CSS" />
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=windows,java,python,html,css&theme=dark&perline=5" alt="Windows, Java, Python, HTML e CSS" />
 </div>
 
-## ✧ projetos
+---
 
-Alguns projetos que representam minha jornada em suporte, dados e desenvolvimento.
+## ✧ projetos em destaque
+
+Projetos que mostram minha evolução em suporte técnico, dados e desenvolvimento.
 
 | 💻 Sistema de Chamados | 🚀 Speed Vagas Pro |
 |---|---|
@@ -60,15 +62,17 @@ Alguns projetos que representam minha jornada em suporte, dados e desenvolviment
 | Sistema de Help Desk com cadastro de chamados, banco de dados relacional e consultas SQL. | Projeto para busca, análise e gestão de oportunidades de vagas. |
 | [![Ver projeto](https://img.shields.io/badge/VER%20PROJETO-FF3131?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juliocesarcarvalhomartins/sistema-de-chamados-helpdesk) | [![Ver projeto](https://img.shields.io/badge/VER%20PROJETO-FF3131?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juliocesarcarvalhomartins/speed-vagas-pro) |
 
-| 🧾 FC SERV Enterprise |
-|---|
-| **Python • FastAPI • SQL** |
-| Automação de faturas usando Python, FastAPI e banco de dados SQL. |
-| [![Ver projeto](https://img.shields.io/badge/VER%20PROJETO-FF3131?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juliocesarcarvalhomartins/fc-serv-enterprise) |
+---
+
+## ♡ contribution game
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/juliocesarcarvalhomartins/juliocesarcarvalhomartins/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
 
-## ⌁ vamos conversar?
+## ↝ vamos conversar?
 
 <div align="center">
 
@@ -76,6 +80,6 @@ Alguns projetos que representam minha jornada em suporte, dados e desenvolviment
 [![Portfólio](https://img.shields.io/badge/PORTFÓLIO-FF3131?style=for-the-badge&logo=github&logoColor=white)](https://juliocesarcarvalhomartins.github.io/)
 [![E-mail](https://img.shields.io/badge/E--MAIL-FF3131?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliocesarcarvalhomartins2@gmail.com)
 
-**Suporte Técnico • Infraestrutura • Redes • Dados • Desenvolvimento**
+Suporte Técnico • Infraestrutura • Redes • Dados • Desenvolvimento
 
 </div>

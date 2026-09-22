@@ -46,13 +46,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Supor
 
 ### Ferramentas que fazem parte do meu dia
 
-<div align="center">
-
-![Windows](https://img.shields.io/badge/WINDOWS-FF3131?style=for-the-badge&logo=windows&logoColor=white)
-![Redes](https://img.shields.io/badge/REDES-IP%20%7C%20DNS%20%7C%20DHCP-FF3131?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL%20%26%20MYSQL-FF3131?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-FF3131?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/POWER%20BI-FF3131?style=for-the-badge&logo=powerbi&logoColor=white)
+<div align="center"><img src="https://skillicons.dev/icons?i=windows,java,python,html,css&theme=dark&perline=5" alt="Windows, Java, Python, HTML e CSS" />
 
 </div>
 

@@ -41,7 +41,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Supor
 ### Ferramentas & Desenvolvimento
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark&perline=4" alt="Git, GitHub, VS Code e Docker" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css&theme=dark&perline=4" alt="Java, Python, HTML e CSS" />
 </div>
 
 ### Ferramentas que fazem parte do meu dia

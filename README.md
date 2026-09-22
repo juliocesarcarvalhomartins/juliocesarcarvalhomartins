@@ -31,7 +31,7 @@ Atualmente, meu foco está em:
 
 <div align="center">
 
-## `♡ TECNOLOGIAS`
+## `◆ TECNOLOGIAS`
 
 </div>
 
@@ -66,7 +66,7 @@ Atualmente, meu foco está em:
 <tr>
 <td width="50%" valign="top">
 
-### ❤️ Suporte & Desenvolvimento
+### 🛠️ Suporte & Desenvolvimento
 
 ```text
 Windows       ████████████████████  principal
@@ -78,7 +78,7 @@ Java          ████████████░░░░░░░░  estu
 </td>
 <td width="50%" valign="top">
 
-### ♡ Dados
+### ◆ Dados
 
 ```text
 SQL           █████████████████░░░  experiência
@@ -202,7 +202,7 @@ status: aprendendo, construindo e evoluindo.
 
 <div align="center">
 
-## `♡ contribution garden`
+## `◆ contribution garden`
 
 <img src="https://raw.githubusercontent.com/juliocesarcarvalhomartins/juliocesarcarvalhomartins/output/github-contribution-grid-snake-dark.svg" alt="Snake animation das contribuições" />
 
@@ -224,6 +224,6 @@ Suporte Técnico • Infraestrutura • Redes • Dados • Desenvolvimento
 
 <br />
 
-Feito com dedicação, aprendizado e um toque de vermelho. ❤️
+Feito com dedicação, aprendizado e foco em evolução.
 
 </div>

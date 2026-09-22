@@ -12,7 +12,7 @@
 
 <div align="center">
 
-## `✦ um pouco sobre mim ✦`
+## `👨‍💻 SOBRE MIM`
 
 </div>
 
@@ -31,7 +31,7 @@ Atualmente, meu foco está em:
 
 <div align="center">
 
-## `◆ TECNOLOGIAS`
+## `🧰 TECNOLOGIAS`
 
 </div>
 
@@ -78,7 +78,7 @@ Java          ████████████░░░░░░░░  estu
 </td>
 <td width="50%" valign="top">
 
-### ◆ Dados
+### 📊 Dados
 
 ```text
 SQL           █████████████████░░░  experiência
@@ -95,7 +95,7 @@ Power BI      ██████████████░░░░░░  expe
 
 <div align="center">
 
-## `✧ projetos`
+## `🚀 PROJETOS`
 
 Projetos que mostram minha evolução em suporte técnico, dados e desenvolvimento.
 
@@ -176,7 +176,7 @@ Meu portfólio profissional com projetos, tecnologias e formas de contato.
 
 <div align="center">
 
-## `⌨ objetivos atuais`
+## `🎯 OBJETIVOS ATUAIS`
 
 </div>
 
@@ -202,7 +202,7 @@ status: aprendendo, construindo e evoluindo.
 
 <div align="center">
 
-## `◆ contribution garden`
+## `🐍 CONTRIBUIÇÕES`
 
 <img src="https://raw.githubusercontent.com/juliocesarcarvalhomartins/juliocesarcarvalhomartins/output/github-contribution-grid-snake-dark.svg" alt="Snake animation das contribuições" />
 
@@ -212,7 +212,7 @@ status: aprendendo, construindo e evoluindo.
 
 <div align="center">
 
-## `⌁ vamos conversar?`
+## `📬 CONTATO`
 
 <a href="https://www.linkedin.com/in/julio-cesar-carvalho-martins/"><img src="https://img.shields.io/badge/LINKEDIN-FF3131?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://juliocesarcarvalhomartins.github.io/"><img src="https://img.shields.io/badge/PORTFÓLIO-FF3131?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio" /></a>

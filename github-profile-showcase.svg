@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#0d1117"/>
+  <style>text{font-family:Arial,sans-serif;fill:#f0f6fc}.t{font-size:29px;font-weight:700}.s{font-size:17px;fill:#c9d1d9}.tag{font-size:17px;font-weight:700}.small{font-size:15px;fill:#c9d1d9}</style>
+  <rect x="35" y="30" width="1130" height="5" fill="#ff3131" opacity=".8"/>
+  <text x="600" y="83" text-anchor="middle" class="t">♡ TECNOLOGIAS</text>
+  <line x1="100" y1="104" x2="1100" y2="104" stroke="#30363d"/>
+  <text x="600" y="150" text-anchor="middle" class="t" font-size="23">Suporte, Infraestrutura &amp; Dados</text>
+  <g>
+    <rect x="170" y="180" width="130" height="54" rx="9" fill="#ff3131"/><text x="235" y="214" text-anchor="middle" class="tag">WINDOWS</text>
+    <rect x="320" y="180" width="130" height="54" rx="9" fill="#b91c1c"/><text x="385" y="214" text-anchor="middle" class="tag">REDES</text>
+    <rect x="470" y="180" width="130" height="54" rx="9" fill="#991b1b"/><text x="535" y="214" text-anchor="middle" class="tag">PYTHON</text>
+    <rect x="620" y="180" width="130" height="54" rx="9" fill="#7f1d1d"/><text x="685" y="214" text-anchor="middle" class="tag">JAVA</text>
+    <rect x="770" y="180" width="130" height="54" rx="9" fill="#b91c1c"/><text x="835" y="214" text-anchor="middle" class="tag">MYSQL</text>
+  </g>
+  <g>
+    <rect x="250" y="255" width="130" height="54" rx="9" fill="#30363d"/><text x="315" y="289" text-anchor="middle" class="tag">SQL</text>
+    <rect x="400" y="255" width="130" height="54" rx="9" fill="#30363d"/><text x="465" y="289" text-anchor="middle" class="tag">POWER BI</text>
+    <rect x="550" y="255" width="130" height="54" rx="9" fill="#30363d"/><text x="615" y="289" text-anchor="middle" class="tag">GIT</text>
+    <rect x="700" y="255" width="130" height="54" rx="9" fill="#30363d"/><text x="765" y="289" text-anchor="middle" class="tag">DOCKER</text>
+  </g>
+  <rect x="35" y="345" width="1130" height="5" fill="#ff3131" opacity=".8"/>
+  <text x="600" y="402" text-anchor="middle" class="t">✧ PROJETOS</text>
+  <g stroke="#30363d" fill="#161b22">
+    <rect x="90" y="435" width="490" height="230"/><rect x="620" y="435" width="490" height="230"/><rect x="355" y="690" width="490" height="160"/>
+  </g>
+  <text x="335" y="485" text-anchor="middle" class="t" font-size="23">💻 Sistema de Chamados</text><text x="335" y="525" text-anchor="middle" class="s">Help Desk com MySQL, relações e consultas SQL.</text><rect x="235" y="585" width="200" height="42" fill="#ff3131"/><text x="335" y="612" text-anchor="middle" class="tag">VER PROJETO</text>
+  <text x="865" y="485" text-anchor="middle" class="t" font-size="23">🚀 Speed Vagas Pro</text><text x="865" y="525" text-anchor="middle" class="s">Busca, análise e gestão de oportunidades.</text><rect x="765" y="585" width="200" height="42" fill="#ff3131"/><text x="865" y="612" text-anchor="middle" class="tag">VER PROJETO</text>
+  <text x="600" y="738" text-anchor="middle" class="t" font-size="23">🧾 FC SERV Enterprise</text><text x="600" y="774" text-anchor="middle" class="s">Automação de faturas com Python, FastAPI e SQL.</text><rect x="500" y="794" width="200" height="38" fill="#ff3131"/><text x="600" y="819" text-anchor="middle" class="tag">VER PROJETO</text>
+  <text x="600" y="884" text-anchor="middle" class="small">Júlio César Carvalho Martins • Suporte Técnico • Infraestrutura • Dados</text>
+</svg>

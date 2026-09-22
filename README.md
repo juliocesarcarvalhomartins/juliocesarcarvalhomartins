@@ -14,7 +14,7 @@
 
 ### ✦ um pouco sobre mim ✦
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Suporte Técnico, Help Desk N1, Infraestrutura, Redes e Dados**. Gosto de entender a necessidade do usuário e transformar problemas técnicos em soluções organizadas e confiáveis.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Suporte Técnico, Help Desk N1, Infraestrutura, Redes e Dados**.
 
 - ⚙️ Suporte a usuários, manutenção de computadores e hardware
 - 🪟 Administração e configuração do Windows
@@ -24,10 +24,24 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Supor
 
 ## ♡ TECNOLOGIAS
 
-### Suporte, Dados & Desenvolvimento
+### Suporte & Desenvolvimento
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,python,java,mysql,git,github,vscode,docker&theme=dark&perline=9" alt="Windows, Linux, Python, Java, MySQL, Git, GitHub, VS Code e Docker" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,python,java&theme=dark&perline=4" alt="Windows, Linux, Python e Java" />
+</div>
+
+### Bancos de Dados
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=3" alt="MySQL" />
+
+![SQL](https://img.shields.io/badge/SQL-FF3131?style=for-the-badge&logo=database&logoColor=white)
+</div>
+
+### Ferramentas & Desenvolvimento
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark&perline=4" alt="Git, GitHub, VS Code e Docker" />
 </div>
 
 ### Ferramentas que fazem parte do meu dia
